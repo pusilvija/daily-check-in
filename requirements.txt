@@ -1,2 +1,2 @@
-django==4.2
+django==4.2.9
 django-debug-toolbar==4.4.6
